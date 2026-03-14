@@ -17,3 +17,6 @@ uv.lock
 .idea/
 .vscode/
 .zed/
+
+# MCDReforged
+*.mcdr
