@@ -1,0 +1,9 @@
+[project]
+name = "plugin_dev_helper"
+version = "0.0.1"
+description = "This is a plugin as a helper for developing MCDR plugins."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mcdreforged>=2.15.7",
+]

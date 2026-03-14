@@ -1,0 +1,17 @@
+{
+    "id": "plugin_dev_helper",
+    "version": "0.0.1",
+    "name": "PluginDevHelper",
+    "description": {
+        "en_us": "This is a plugin as a helper for developing MCDR plugins.",
+        "zh_cn": "这是一个用于开发MCDR插件的助手插件。"
+    },
+    "author": "Mooling0602",
+    "link": "https://github.com/Mooling0602",
+    "dependencies": {
+        "mcdreforged": ">=2.14.1"
+    },
+    "resources": [
+        "lang"
+    ]
+}
