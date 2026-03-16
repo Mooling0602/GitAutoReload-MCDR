@@ -3,5 +3,5 @@ name = "git_auto_reload"
 version = "0.0.1"
 description = "Auto reload plugins from git repos in MCDReforged."
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = ["mcdreforged>=2.15.7"]

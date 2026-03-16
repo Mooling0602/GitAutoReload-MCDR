@@ -9,7 +9,8 @@
   "author": "Mooling0602",
   "link": "https://github.com/Mooling0602",
   "dependencies": {
-    "mcdreforged": ">=2.14.1"
+    "mcdreforged": ">=2.14.1",
+    "rest_api": "*"
   },
   "resources": [
     "lang"
