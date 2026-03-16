@@ -12,7 +12,5 @@
     "mcdreforged": ">=2.14.1",
     "rest_api": "*"
   },
-  "resources": [
-    "lang"
-  ]
+  "resources": ["lang", "resources"]
 }

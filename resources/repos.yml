@@ -1,0 +1,14 @@
+git_repos:
+  - plugin_id: "example-plugin"
+    local_dir: "" # leave empty to disable.
+    remote_url: "https://github.com/user/example.git"
+    branch: "" # leave empty to use the present branch in local filesystem.
+    is_linked: false # if linked, load as a [linked directory plugin](https://docs.mcdreforged.com/en/latest/plugin_dev/plugin_format.html#linked-directory-plugin).
+    do_packaging: false # Package to a *.mcdr plugin file and load in MCDR.
+
+  - plugin_id: "another-plugin"
+    local_dir: ""
+    remote_url: "https://gitee.com/user/another.git"
+    branch: ""
+    is_linked: false
+    do_packaging: false
